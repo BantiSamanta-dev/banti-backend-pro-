@@ -2,12 +2,15 @@
   "name": "banti-backend",
   "version": "1.0.0",
   "description": "the professional backend",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"  && exit 1",
     "start": "nodemon src/index.js"
   },
   "author": "banti samanta",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
 }
