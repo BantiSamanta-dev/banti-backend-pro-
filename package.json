@@ -1,0 +1,11 @@
+{
+  "name": "banti-backend",
+  "version": "1.0.0",
+  "description": "the professional backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "banti samanta",
+  "license": "ISC"
+}
